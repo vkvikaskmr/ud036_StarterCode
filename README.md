@@ -10,4 +10,4 @@ Instructions to run the application.
 -----------------------------------------------
 References
 -----------------------------------------------
-Unit 1, Lesson 20,21 of Machine Learning Foundation Course
+Unit 1, Lesson 20,21 of Udacity, Machine Learning Foundation Course.
